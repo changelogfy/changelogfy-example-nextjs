@@ -27,6 +27,7 @@ export default function Home() {
               user_id='af12f993-1a0d-3cde-4144-89af158c39e2'
               user_name='Paulo Castellano'
               user_email='paulo@changelogfy.com'
+              is_following={true}
               custom_data={{
                 JobRole: 'CEO',
                 Plan: 'Pro',
